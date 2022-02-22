@@ -5,3 +5,6 @@ phase
 working copy > staging area > repository
 
 https://www.youtube.com/watch?v=vzUqIwEIPvw
+
+
+asadsadasdsadsad
